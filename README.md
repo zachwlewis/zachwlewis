@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on **some unannounced PS5 titles**
+- 🌱 I’m currently learning **[racket](https://racket-lang.org/)**
+- 👯 I’m looking to collaborate on **any interesting UI problems**
+- 💬 Ask me about **game development, game UI, accessibility in games**
+- 😄 Pronouns: **he/him**
+- ⚡ Fun fact: **Octopuses lay 56,000 eggs at a time**
+
 <!--
 **zachwlewis/zachwlewis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
