@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on **some unannounced PS5 titles**
+- 🤖 I'm evaluating how AI fits into my workflows
 - 🌱 I’m currently learning **[racket](https://racket-lang.org/)**
 - 👯 I’m looking to collaborate on **any interesting UI problems**
 - 💬 Ask me about **game development, game UI, accessibility in games**
